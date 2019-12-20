@@ -1,0 +1,1 @@
+/usr/bin/g++-7  -std=c++17   CMakeFiles/SnakeGame.dir/src/main.cpp.o CMakeFiles/SnakeGame.dir/src/game.cpp.o CMakeFiles/SnakeGame.dir/src/controller.cpp.o CMakeFiles/SnakeGame.dir/src/renderer.cpp.o CMakeFiles/SnakeGame.dir/src/snake.cpp.o CMakeFiles/SnakeGame.dir/src/player.cpp.o  -o SnakeGame -L/usr/lib/x86_64-linux-gnu  -lSDL2 
